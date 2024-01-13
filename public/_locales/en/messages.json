@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "Chrome extension pure reader"
+  },
+  "extensionName": {
+    "description": "Extension name",
+    "message": "pure reader"
+  }
+}
